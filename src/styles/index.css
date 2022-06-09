@@ -1,0 +1,39 @@
+body {
+    background-image: url('https://i.imgur.com/16vSBdq.png');
+    background-size: cover;
+}
+
+.navbar {
+    border-left: solid 100px;
+    border-right: solid 100px;
+}
+.navbar-collapse {
+    justify-content: right;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding: 10px;
+}
+
+.jumbotron {
+    background: rgb(236, 236, 236);
+    padding: 20px;
+    margin: auto;
+    margin-top: 10px;
+    border-radius: 10px;
+    height: auto;
+    width: 90%;
+}
+
+.card {
+    float: left;
+    border-radius: 10px;
+    width: 20rem;
+    margin: 30px 40px 0px 100px;
+}
+.card img {
+    border-radius: 10px;
+}
